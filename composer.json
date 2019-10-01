@@ -16,6 +16,7 @@
     }
   },
   "require": {
+	"php": "^7.3",
     "slim/slim": "^3.0",
     "slim/twig-view": "^2.0",
     "slim/flash": "^0.4.0",
@@ -27,6 +28,7 @@
     "vlucas/phpdotenv": "^3.6",
     "kanellov/slim-twig-flash": "^0.2.0",
     "akrabat/ip-address-middleware": "^1.0",
-    "ramsey/uuid": "^3.8"
+    "ramsey/uuid": "^3.8",
+    "robthree/twofactorauth": "^1.6"
   }
 }
